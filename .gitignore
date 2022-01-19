@@ -2,3 +2,4 @@
 /terraform/libvirt/.terraform.lock.hcl
 /terraform/libvirt/terraform.tfstate
 /terraform/libvirt/terraform.tfstate.backup
+/.idea/
